@@ -9,6 +9,7 @@ title: Fietshersteller
 
 theme: jekyll-theme-cayman
 
+markdown: kramdown
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://driesmeyers.github.io/images/profilepic.jpg
 
