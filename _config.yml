@@ -36,6 +36,7 @@ markdown: kramdown
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: https://driesmeyers.github.io
+repository: https://github.com/driesmeyers/fietshersteller
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -49,3 +50,6 @@ exclude:
   - Gemfile.lock
 
 remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-seo-tag
