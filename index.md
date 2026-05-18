@@ -5,3 +5,4 @@ nav_order: 1
 # Inhoud
 - [Frames](frames.md)
 - [Voorvorken](voorvorken.md)
+- [Balhoofdstellen](balhoofdstellen.md)
